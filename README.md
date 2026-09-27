@@ -45,6 +45,7 @@ In this project, I performed the following analysis:
 - Data cleaning and validation
 
 ## Visualizations
+![F1 Dashboard](f1_professional_dashboard.png)
 
 The project contains graphs for:
 
